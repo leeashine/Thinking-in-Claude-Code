@@ -1,8 +1,6 @@
 /target/
 /**/target/
 .idea/
-.smarttomcat/
-.feisuan/
 .specstory
 .claude
 .cursorindexingignore
